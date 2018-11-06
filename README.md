@@ -1,2 +1,2 @@
 # Site_Instrumentos
-Projeto da aula de Programação Web 1 da instituição ETEC Zona Leste.
+Projeto da aula de Programação Web, turma A de Desenvolvimento de Sistemas 1° modulo da instituição ETEC Zona Leste.
